@@ -63,6 +63,8 @@ class GFG
 	              }
 	            }
 	        }
+		    
+		//To Print coins
 	        int numcoin = table[coin.length-1][sum];
 	        int i = coin.length-1;
 	        int j = sum;
